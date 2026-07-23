@@ -10,7 +10,7 @@ The evaluation encompasses:
 
 ---
 
-## ðŸ“ 1. Geometric & Mechanical Specifications
+## 1. Geometric & Mechanical Specifications
 
 | Parameter | Specification / Value |
 | :--- | :--- |
@@ -32,7 +32,7 @@ The evaluation encompasses:
 
 ---
 
-## ðŸ”¬ 2. Material Properties (Aluminum 2618)
+## 2. Material Properties (Aluminum 2618)
 
 | Property | Symbol | Value | Unit |
 | :--- | :--- | :--- | :--- |
@@ -48,7 +48,7 @@ The evaluation encompasses:
 
 ---
 
-## âš™ï¸ 3. FEA Simulation Setup & Boundary Conditions
+## 3. FEA Simulation Setup & Boundary Conditions
 
 The analysis was executed in **Ansys Mechanical 2025 R2** using a coupled multi-physics framework.
 
@@ -74,7 +74,7 @@ The analysis was executed in **Ansys Mechanical 2025 R2** using a coupled multi-
 
 ---
 
-## ðŸ“Š 4. Key Results & Summary Findings
+## 4. Key Results & Summary Findings
 
 ### **Thermal Analysis Results ($t = 1.0\text{ s}$)**
 - **Maximum Crown Temperature:** $452.53^\circ\text{C}$ (located at the center top crown dome)
@@ -89,16 +89,7 @@ The analysis was executed in **Ansys Mechanical 2025 R2** using a coupled multi-
 
 ---
 
-## ðŸ“ Repository File Structure
-
-```
-â”œâ”€â”€ README.md                # Project documentation and summary
-â”œâ”€â”€ CALCULATION_REPORT.md    # Detailed analytical calculations, FEA equations & verification
-```
-
----
-
-## ðŸ‘¤ Author
+## Author
 - **Drawn & Modeled By:** MOHAMMAD MAAWIZ
 - **Date:** July 23, 2026
 - **Software Tools:** PTC Creo / SpaceClaim, Ansys Mechanical 2025 R2 Student Edition 
