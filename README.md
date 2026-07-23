@@ -1,6 +1,6 @@
 # Mechanical Design & FEA Thermo-Structural Analysis of an Aluminum 2618 Piston
 
-## ðŸ“Œ Project Overview
+## Project Overview
 This repository contains a comprehensive CAD design and coupled Thermo-Structural Finite Element Analysis (FEA) of a high-performance internal combustion engine piston modeled from **Aluminum Alloy 2618 (Al2618)**.
 
 The evaluation encompasses:
